@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Hakan
 I am a frontend developer. 💻
+I have a background in fnance/fintech and graphic design.
 
-React / Typescript / Redux /NextJS 
+React / Typescript / Redux / NextJS 
 TailwindCSS / HTML / CSS / CSS Animations
 
 #### Connect with me :
