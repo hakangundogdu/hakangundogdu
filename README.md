@@ -2,8 +2,8 @@
 I am a frontend developer. 💻
 I have a background in finance/fintech and graphic design.
 
-React / Typescript / Redux / NextJS 
-TailwindCSS / HTML / CSS / CSS Animations
+React / Typescript / Redux / NextJS / GraphQL
+TailwindCSS / MaterialUI / ChakraUI / SASS / CSS / Styled Components
 
 #### Connect with me :
 <a href="https://www.linkedin.com/in/hakangundogdu1/">
