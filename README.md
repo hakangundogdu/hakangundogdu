@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Hakan
-I am a frontend developer. 💻
-I have a background in finance/fintech and graphic design.
+I am a Frontend React Developer. 💻
 
-React / Typescript / Redux / NextJS / GraphQL
+React / Typescript / NextJS
 TailwindCSS / MaterialUI / ChakraUI / SASS / CSS / Styled Components
 
 #### Connect with me :
